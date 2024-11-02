@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    ifstream file("D:\\Code\\VScode\\Advent of Code 2022\\AoC_Day2.txt");
+    ifstream file("AoC_Day2.txt");
 
     if (file.is_open())
     {
