@@ -76,7 +76,7 @@ int value2(string a, string b, string c)
 
 int main()
 {
-    ifstream file("D:\\Code\\VScode\\Advent of Code 2022\\AoC_Day3.txt");
+    ifstream file("AoC_Day3.txt");
 
     vector<string> arr;
     if (file.is_open())
