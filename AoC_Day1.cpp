@@ -16,7 +16,7 @@ int toInt(string s)
 
 int main()
 {
-    ifstream calories("D:\\Code\\VScode\\Advent of Code 2022\\AoC_Day1.txt");
+    ifstream calories("AoC_Day1.txt");
 
     if (calories.is_open())
     {
