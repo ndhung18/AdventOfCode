@@ -49,10 +49,6 @@ int value2(string a, string b, string c)
     }
     sort(item2.begin(), item2.end());
     item2.erase(unique(item2.begin(), item2.end()), item2.end());
-    // for (int i = 0; i < item2.size(); i++)
-    // {
-    //     cout << item2[i] << " ";
-    // }
 
     for (int i = 0; i < item2.size(); i++)
     {
@@ -76,7 +72,7 @@ int value2(string a, string b, string c)
 
 int main()
 {
-    ifstream file("D:\\Code\\VScode\\Advent of Code 2022\\AoC_Day3.txt");
+    ifstream file("input/day3.txt");
 
     vector<string> arr;
     if (file.is_open())

@@ -50,7 +50,7 @@ bool Split(string s)
 
 int main()
 {
-    ifstream file("AoC_Day4.txt");
+    ifstream file("input/day4.txt");
 
     vector<string> arr;
     if (file.is_open())

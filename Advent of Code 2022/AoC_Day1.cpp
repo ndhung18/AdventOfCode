@@ -16,7 +16,7 @@ int toInt(string s)
 
 int main()
 {
-    ifstream calories("input/day1_input.txt");
+    ifstream calories("input/day1.txt");
 
     if (calories.is_open())
     {

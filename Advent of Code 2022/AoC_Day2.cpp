@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    ifstream file("input/day2_input.txt");
+    ifstream file("input/day2.txt");
 
     if (file.is_open())
     {
