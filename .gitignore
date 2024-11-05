@@ -1,8 +1,11 @@
 # Ignore specific .exe files
-AoC_Day1.exe
-AoC_Day2.exe
-AoC_Day3.exe
-AoC_Day4.exe
+Advent of Code 2022/AoC_Day1.exe
+Advent of Code 2022/AoC_Day2.exe
+Advent of Code 2022/AoC_Day3.exe
+Advent of Code 2022/AoC_Day4.exe
 
 # Ignore .ipynb_checkpoints folder
 .ipynb_checkpoints/
+
+# Ignore input folder
+Advent of Code 2022/input/
