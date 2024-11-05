@@ -1,0 +1,8 @@
+# Ignore specific .exe files
+AoC_Day1.exe
+AoC_Day2.exe
+AoC_Day3.exe
+AoC_Day4.exe
+
+# Ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
